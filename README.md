@@ -1,2 +1,2 @@
 # Basic-Cafe-Menu
-A basic cafe menu using html and css.
+This repository covers basic CSS to set the color, font, size, and other aspects of HTML elements.
